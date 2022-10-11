@@ -1,5 +1,5 @@
 ------
-[![@fizfat's Holopin board](https://holopin.io/api/user/board?user=fizfat)](https://holopin.io/@fizfat).
+[![@fizfat's Holopin board](https://holopin.io/api/user/board?user=fizfat)](https://holopin.io/@fizfat)
 ------
 
 <p align="center">
